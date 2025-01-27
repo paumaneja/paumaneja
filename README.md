@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Pau Maneja]!
+# 👋 Hi, I'm Pau Maneja!
 
 Welcome to my GitHub profile! 🌟
 
@@ -14,6 +14,11 @@ Welcome to my GitHub profile! 🌟
 - 🚀 **Science Fiction**: A fan of exploring futuristic worlds and ideas.
 - ⚽ **Sports**: Whether playing or watching, I enjoy staying active.
 - 💻 **Technology**: Always curious about the latest trends and innovations in the tech world.
+
+## 🌟 Fun Facts
+- 📍 Based in [Barcelona].
+- ☕ Coffee enthusiast and occasional gamer.
+- 📚 Bookworm who loves sci-fi and tech novels.
 
 ---
 
@@ -36,19 +41,6 @@ An implementation of the classic card game with:
 
 ---
 
-## 🌟 Fun Facts
-- 📍 Based in [Barcelona].
-- ☕ Coffee enthusiast and occasional gamer.
-- 📚 Bookworm who loves sci-fi and tech novels.
-
----
-
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/pau-maneja)
-- ✉️ [Email Me](mailto:paumaneja@google.com)
-
----
-
 ## 💻 Tech Stack
 Here are some technologies I frequently work with:
 
@@ -61,6 +53,12 @@ Here are some technologies I frequently work with:
   <img src="https://github-readme-stats.vercel.app/api?username=paumaneja&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paumaneja&layout=compact&theme=radical" alt="Top Languages" width="400" />
 </div>
+
+---
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/pau-maneja)
+- ✉️ [Email Me](mailto:paumaneja@google.com)
 
 ---
 

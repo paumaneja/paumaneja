@@ -34,7 +34,7 @@ An implementation of the classic card game with:
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=paumaneja&show_icons=true&theme=radical)
 
 ---
 

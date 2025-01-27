@@ -30,9 +30,7 @@ A fun and interactive app to manage virtual pets. Features include:
 - 🎮 Unique character customization.
 - 💼 Weapon switching for pets based on their type (Star Wars or Lord of the Rings style).
 - 🌟 Simple yet engaging mechanics for all ages.
-- ☕ Coffee enthusiast and occasional gamer.
-- 📚 Bookworm who loves sci-fi and tech novels.
-- 📍 Based in [Barcelona].
+
 
 ### 🎮 [Blackjack Game](https://github.com/paumaneja/5.1-Spring_Framework_Advanced.Webflux_-Blackjack-)
 An implementation of the classic card game with:

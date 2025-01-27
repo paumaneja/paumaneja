@@ -9,7 +9,6 @@ Welcome to my GitHub profile! 🌟
 - 📚 Currently, I am training as a **Backend Developer in Java** at the IT Academy of Barcelona Activa.
 - 💡 I am passionate about technology and enjoy solving problems through code.
 
----
 
 ## 🎯 Personal Interests
 - 🚀 **Science Fiction**: A fan of exploring futuristic worlds and ideas.

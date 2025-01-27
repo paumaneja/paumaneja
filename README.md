@@ -25,19 +25,14 @@ A fun and interactive app to manage virtual pets. Features include:
 - 🎮 Unique character customization.
 - 💼 Weapon switching for pets based on their type (Star Wars or Lord of the Rings style).
 - 🌟 Simple yet engaging mechanics for all ages.
+- ☕ Coffee enthusiast and occasional gamer.
+- 📚 Bookworm who loves sci-fi and tech novels.
+- 📍 Based in [Barcelona].
 
 ### 🎮 [Blackjack Game](https://github.com/paumaneja/5.1-Spring_Framework_Advanced.Webflux_-Blackjack-)
 An implementation of the classic card game with:
 - 🧠 Smart AI dealer.
 - ✅ Fully functional with the **basic rules and features** of the game.
-
----
-
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paumaneja&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paumaneja&layout=compact&theme=radical" alt="Top Languages" width="400" />
-</div>
 
 ---
 
@@ -58,6 +53,14 @@ An implementation of the classic card game with:
 Here are some technologies I frequently work with:
 
 ![Tech Stack](https://skillicons.dev/icons?i=java,spring,js,react,html,css,mysql,docker)
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paumaneja&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paumaneja&layout=compact&theme=radical" alt="Top Languages" width="400" />
+</div>
 
 ---
 
